@@ -62,7 +62,7 @@ optional arguments:
   -c COUNT, --count COUNT
                         Enter a list of number(s) for the duration of time period, sepearted by ','
   -o OUTPUT, --output OUTPUT
-                        Enter the output filename (.csv)
+                        Enter the output filename (default is output.csv)
 ```
 
 b. Example 1:

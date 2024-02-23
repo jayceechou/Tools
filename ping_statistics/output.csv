@@ -1,0 +1,6 @@
+File Name,Transmitted,Received,Packet Loss, Loss Rate,RTT Min,RTT Max,RTT Avg,RTT STDDEV, 20th Percentile, 50th Percentile,Consecutive Timeout 10 packets,# of Incidents Per 5 Packets,# of Incidents Per 20 Packets,
+test02.txt,40 packets,30 packets,10 packets,25.00%%,68.441 ms,1490.029 ms,262.531 ms,349.800 ms,81.271 ms,116.647 ms,No Match!,5 Incidents (Max 5 packets lost),2 Incidents (Max 9 packets lost),
+test01.txt,219 packets,55 packets,164 packets,74.89%%,64.031 ms,1490.029 ms,232.519 ms,318.887 ms,76.879 ms,89.907 ms,"Seq 12565 to 12596 : 30 packets lost
+Seq 12619 to 12712 : 92 packets lost
+Seq 12715 to 12739 : 23 packets lost
+",39 Incidents (Max 5 packets lost),11 Incidents (Max 20 packets lost),
